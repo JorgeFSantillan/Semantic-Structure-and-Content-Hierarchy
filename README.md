@@ -1,4 +1,4 @@
-<h1>Semantic Structure & Content Hierarchy</h1>
+<h1>Semantic Structure & Content Hierarchy (Page 2) </h1>
 <p>The homepage hero section was used as an example and reviewed in Chrome DevTools to analyze how the content is structured in the DOM.
   
 > DOM stands for Document Object Model.
@@ -32,3 +32,5 @@ The important takeaway is that the visible content still follows a logical hiera
 ![Hero HTML Structure](hero-html-structure.png)
   
 > DevTools view of the homepage hero section showing the main content container, heading structure, supporting text, and Elementor layout containers.
+
+[Return to Page 1 ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
